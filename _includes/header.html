@@ -3,28 +3,19 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<a href="{{ "" | absolute_url }}/" class="logo"><img src="{{ "/assets/images/logo.jpg" | relative_url }}" alt="RKMOBI Logo" style="max-height: 70px; vertical-align: middle;"><span style="margin-left:0.5em; font-weight: bold; font-size:1.2em; vertical-align: middle;">{{ site.title }}</span></a>
 	<nav>
-		<a href="#menu">Menu</a>
+		<a href="#menu"></a>
 	</nav>
 </header>
 
 <!-- Menu -->
 <nav id="menu">
-	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
-	</ul>
-	<ul class="actions vertical">
-		<li><a href="#" class="button special fit">Get Started</a></li>
-		<li><a href="#" class="button fit">Log In</a></li>
-	</ul>
+<ul class="links">
+  <li><a href="{{ '/' | relative_url }}">Domů</a></li>
+  <li><a href="{{ '/about/' | relative_url }}">O nás</a></li>
+  <li><a href="{{ '/produkty/' | relative_url }}">Produkty</a></li>
+  <li><a href="{{ '/kontakt/' | relative_url }}">Kontakt</a></li>
+</ul>
+	
 </nav>

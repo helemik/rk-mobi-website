@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+title: RKMOBI.cz
+subtitle: RK Mobi cz
+email: krestynradim@gmail.com
+description: Ohřevné teplodrátěné koše, ochrana rostlin před mrazem – výroba a prodej.
+baseurl: "" # for direct root domain usage
+url: # Fill if custom domain, e.g. https://www.rkmobi.cz
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Drušstevní 276/15
+city: Mohelnice
+state: 
+zip_code: 789 85
+country: Česká republika
+phone: +420 776 071 283
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

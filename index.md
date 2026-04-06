@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'RK Mobi cz'
+description: Plastové WC, mobilní sprchy a zahradní nábytek z recyklátu
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Vítejte na stránkách firmy RK Mobi cz – specialista na prodej plastových WC a zahradních produktů. Najdete u nás přenosné toalety pro zahradu, stavbu i akce, a pestrý sortiment vybavení pro vaši zahradu. S výběrem rádi poradíme, rychle doručíme.
