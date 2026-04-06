@@ -2,7 +2,7 @@
 layout: landing
 title: Květináč z recyklátu
 description: 'Ekologický květináč z recyklovaného materiálu.<br />Odolný pro zahradu i veřejné prostory.'
-image: /assets/images/kvetinac.jpg
+image: {{ "/assets/images/kvetinac.jpg" | relative_url }}
 permalink: /produkty/kvetinac-z-recyklatu/
 nav-menu: false
 ---
@@ -20,8 +20,8 @@ nav-menu: false
 
 <section id="two" class="spotlights">
 	<section>
-		<a href="/assets/images/produkty/1477_4-kvetinac-60l.jpg" class="glightbox image" data-gallery="kvetinac-gallery" data-glightbox="title: Květináč 60l z recyklátu">
-			<img src="/assets/images/produkty/1477_3-kvetinac-60l.jpg" alt="Květináč 60l" data-position="center center" />
+		<a href="{{ '/assets/images/produkty/1477_4-kvetinac-60l.jpg' | relative_url }}" class="glightbox image" data-gallery="kvetinac-gallery" data-glightbox="title: Květináč 60l z recyklátu">
+			<img src="{{ '/assets/images/produkty/1477_3-kvetinac-60l.jpg' | relative_url }}" alt="Květináč 60l" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -33,8 +33,8 @@ nav-menu: false
 		</div>
 	</section>
 	<section>
-		<a href="/assets/images/produkty/1478_4-kvetinac-60l-2.jpg" class="glightbox image" data-gallery="kvetinac-gallery" data-glightbox="title: Květináč 60l - detail použití">
-			<img src="/assets/images/produkty/1478_3-kvetinac-60l-2.jpg" alt="Květináč 60l detail" data-position="center center" />
+		<a href="{{ '/assets/images/produkty/1478_4-kvetinac-60l-2.jpg' | relative_url }}" class="glightbox image" data-gallery="kvetinac-gallery" data-glightbox="title: Květináč 60l - detail použití">
+			<img src="{{ '/assets/images/produkty/1478_3-kvetinac-60l-2.jpg' | relative_url }}" alt="Květináč 60l detail" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -43,8 +43,8 @@ nav-menu: false
 				</header>
 				<p>Kontaktujte nás pro více informací nebo cenovou nabídku na míru.</p>
 				<ul class="actions">
-					<li><a href="/kontakt/" class="button">Kontaktujte nás</a></li>
-					<li><a href="/produkty/" class="button">« Zpět na produkty</a></li>
+					<li><a href="{{ "/kontakt/" | relative_url }}" class="button">Kontaktujte nás</a></li>
+					<li><a href="{{ "/produkty/" | relative_url }}" class="button">« Zpět na produkty</a></li>
 				</ul>
 			</div>
 		</div>

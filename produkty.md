@@ -2,7 +2,7 @@
 layout: landing
 title: Produkty
 description: 'Plastové mobilní WC, sprchy a zahradní nábytek z recyklátu.<br />Kvalitní, praktické, dostupné.'
-image: /assets/images/plastove-wc.jpg
+image: {{ "/assets/images/plastove-wc.jpg" | relative_url }}
 permalink: /produkty/
 nav-menu: true
 ---
@@ -21,7 +21,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="/produkty/mobilni-wc-umyvadlo-a-pisoar/" class="image">
-			<img src="/assets/images/plastove-wc.jpg" alt="Mobilní WC + umyvadlo a pisóar" data-position="center center" />
+			<img src="{{ '/assets/images/plastove-wc.jpg' | relative_url }}" alt="Mobilní WC + umyvadlo a pisóar" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -37,7 +37,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="/produkty/mobilni-wc-umyvadlo/" class="image">
-			<img src="/assets/images/mobilni-wc-umyvadlo.jpg" alt="Mobilní WC + umyvadlo" data-position="center center" />
+			<img src="{{ '/assets/images/mobilni-wc-umyvadlo.jpg' | relative_url }}" alt="Mobilní WC + umyvadlo" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -53,7 +53,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="/produkty/mobilni-sprcha/" class="image">
-			<img src="/assets/images/mobilni-sprcha.jpg" alt="Mobilní sprcha" data-position="center center" />
+			<img src="{{ '/assets/images/mobilni-sprcha.jpg' | relative_url }}" alt="Mobilní sprcha" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -69,7 +69,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="/produkty/zahradni-nabytek-z-recyklatu/" class="image">
-			<img src="/assets/images/zahradni-nabytek.jpg" alt="Zahradní nábytek z recyklátu" data-position="center center" />
+			<img src="{{ '/assets/images/zahradni-nabytek.jpg' | relative_url }}" alt="Zahradní nábytek z recyklátu" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -85,7 +85,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="/produkty/kvetinac-z-recyklatu/" class="image">
-			<img src="/assets/images/kvetinac.jpg" alt="Květináč z recyklátu" data-position="center center" />
+			<img src="{{ '/assets/images/kvetinac.jpg' | relative_url }}" alt="Květináč z recyklátu" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

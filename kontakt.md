@@ -2,7 +2,7 @@
 layout: landing
 title: Kontakt
 description: 'Rádi vám poradíme a připravíme nabídku na míru.<br />Kontaktujte nás telefonicky nebo e-mailem.'
-image: /assets/images/banner.jpg
+image: {{ "/assets/images/banner.jpg" | relative_url }}
 permalink: /kontakt/
 nav-menu: true
 ---

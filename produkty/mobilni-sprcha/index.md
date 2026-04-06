@@ -2,7 +2,7 @@
 layout: landing
 title: Mobilní sprcha
 description: 'Moderní přenosný sprchový kout s ohřívačem.<br />Vhodná pro stavbu nebo zahradu.'
-image: /assets/images/mobilni-sprcha.jpg
+image: {{ "/assets/images/mobilni-sprcha.jpg" | relative_url }}
 permalink: /produkty/mobilni-sprcha/
 nav-menu: false
 ---
@@ -22,8 +22,8 @@ nav-menu: false
 
 <section id="two" class="spotlights">
 	<section>
-		<a href="/assets/images/produkty/1468_4-img20210319111656.jpg" class="glightbox image" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Mobilní sprcha - celkový pohled">
-			<img src="/assets/images/produkty/1468_3-img20210319111656.jpg" alt="Mobilní sprcha" data-position="center center" />
+		<a href="{{ '/assets/images/produkty/1468_4-img20210319111656.jpg' | relative_url }}" class="glightbox image" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Mobilní sprcha - celkový pohled">
+			<img src="{{ '/assets/images/produkty/1468_3-img20210319111656.jpg' | relative_url }}" alt="Mobilní sprcha" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -36,8 +36,8 @@ nav-menu: false
 		</div>
 	</section>
 	<section>
-		<a href="/assets/images/produkty/1469_4-img20210319111707.jpg" class="glightbox image" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Mobilní sprcha - detail instalace">
-			<img src="/assets/images/produkty/1469_3-img20210319111707.jpg" alt="Mobilní sprcha detail" data-position="center center" />
+		<a href="{{ '/assets/images/produkty/1469_4-img20210319111707.jpg' | relative_url }}" class="glightbox image" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Mobilní sprcha - detail instalace">
+			<img src="{{ '/assets/images/produkty/1469_3-img20210319111707.jpg' | relative_url }}" alt="Mobilní sprcha detail" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -46,8 +46,8 @@ nav-menu: false
 				</header>
 				<p>Kontaktujte nás pro více informací nebo cenovou nabídku na míru.</p>
 				<ul class="actions">
-					<li><a href="/kontakt/" class="button">Kontaktujte nás</a></li>
-					<li><a href="/produkty/" class="button">« Zpět na produkty</a></li>
+					<li><a href="{{ "/kontakt/" | relative_url }}" class="button">Kontaktujte nás</a></li>
+					<li><a href="{{ "/produkty/" | relative_url }}" class="button">« Zpět na produkty</a></li>
 				</ul>
 			</div>
 		</div>
@@ -61,13 +61,13 @@ nav-menu: false
 		</header>
 		<div class="box alt">
 			<div class="row uniform">
-				<div class="4u"><span class="image fit"><a href="/assets/images/produkty/1470_4-img20210319111724.jpg" class="glightbox" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Detail sprchovací hlavice"><img src="/assets/images/produkty/1470_3-img20210319111724.jpg" alt="Detail sprchovací hlavice" /></a></span></div>
-				<div class="4u"><span class="image fit"><a href="/assets/images/produkty/1471_4-img20210319111736.jpg" class="glightbox" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Ovládání a nastavení"><img src="/assets/images/produkty/1471_3-img20210319111736.jpg" alt="Ovládání a nastavení" /></a></span></div>
-				<div class="4u$"><span class="image fit"><a href="/assets/images/produkty/1472_4-img20230619093524.jpg" class="glightbox" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Instalace v exteriéru"><img src="/assets/images/produkty/1472_3-img20230619093524.jpg" alt="Instalace v exteriéru" /></a></span></div>
-				<div class="4u"><span class="image fit"><a href="/assets/images/produkty/1473_4-img20230622193017.jpg" class="glightbox" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Praktické použití"><img src="/assets/images/produkty/1473_3-img20230622193017.jpg" alt="Praktické použití" /></a></span></div>
-				<div class="4u"><span class="image fit"><a href="/assets/images/produkty/1474_4-img20230622193021.jpg" class="glightbox" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Detail konstrukce"><img src="/assets/images/produkty/1474_3-img20230622193021.jpg" alt="Detail konstrukce" /></a></span></div>
-				<div class="4u$"><span class="image fit"><a href="/assets/images/produkty/1475_4-img20230622193024.jpg" class="glightbox" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Celkový pohled na instalaci"><img src="/assets/images/produkty/1475_3-img20230622193024.jpg" alt="Celkový pohled na instalaci" /></a></span></div>
-				<div class="4u"><span class="image fit"><a href="/assets/images/produkty/1476_4-img20230622193032.jpg" class="glightbox" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Detail připojení"><img src="/assets/images/produkty/1476_3-img20230622193032.jpg" alt="Detail připojení" /></a></span></div>
+				<div class="4u"><span class="image fit"><a href="{{ '/assets/images/produkty/1470_4-img20210319111724.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Detail sprchovací hlavice"><img src="{{ '/assets/images/produkty/1470_3-img20210319111724.jpg' | relative_url }}" alt="Detail sprchovací hlavice" /></a></span></div>
+				<div class="4u"><span class="image fit"><a href="{{ '/assets/images/produkty/1471_4-img20210319111736.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Ovládání a nastavení"><img src="{{ '/assets/images/produkty/1471_3-img20210319111736.jpg' | relative_url }}" alt="Ovládání a nastavení" /></a></span></div>
+				<div class="4u$"><span class="image fit"><a href="{{ '/assets/images/produkty/1472_4-img20230619093524.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Instalace v exteriéru"><img src="{{ '/assets/images/produkty/1472_3-img20230619093524.jpg' | relative_url }}" alt="Instalace v exteriéru" /></a></span></div>
+				<div class="4u"><span class="image fit"><a href="{{ '/assets/images/produkty/1473_4-img20230622193017.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Praktické použití"><img src="{{ '/assets/images/produkty/1473_3-img20230622193017.jpg' | relative_url }}" alt="Praktické použití" /></a></span></div>
+				<div class="4u"><span class="image fit"><a href="{{ '/assets/images/produkty/1474_4-img20230622193021.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Detail konstrukce"><img src="{{ '/assets/images/produkty/1474_3-img20230622193021.jpg' | relative_url }}" alt="Detail konstrukce" /></a></span></div>
+				<div class="4u$"><span class="image fit"><a href="{{ '/assets/images/produkty/1475_4-img20230622193024.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Celkový pohled na instalaci"><img src="{{ '/assets/images/produkty/1475_3-img20230622193024.jpg' | relative_url }}" alt="Celkový pohled na instalaci" /></a></span></div>
+				<div class="4u"><span class="image fit"><a href="{{ '/assets/images/produkty/1476_4-img20230622193032.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-sprcha-gallery" data-glightbox="title: Detail připojení"><img src="{{ '/assets/images/produkty/1476_3-img20230622193032.jpg' | relative_url }}" alt="Detail připojení" /></a></span></div>
 			</div>
 		</div>
 	</div>
