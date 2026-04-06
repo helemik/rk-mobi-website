@@ -2,7 +2,7 @@
 layout: landing
 title: Mobilní sprcha
 description: 'Moderní přenosný sprchový kout s ohřívačem.<br />Vhodná pro stavbu nebo zahradu.'
-image: {{ "/assets/images/mobilni-sprcha.jpg" | relative_url }}
+image: /assets/images/mobilni-sprcha.jpg
 permalink: /produkty/mobilni-sprcha/
 nav-menu: false
 ---

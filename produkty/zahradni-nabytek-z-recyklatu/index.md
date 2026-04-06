@@ -2,7 +2,7 @@
 layout: landing
 title: Zahradní nábytek z recyklátu
 description: 'Ekologický zahradní nábytek z recyklovaného materiálu.<br />Odolný, praktický a dlouhověký.'
-image: {{ "/assets/images/zahradni-nabytek.jpg" | relative_url }}
+image: /assets/images/zahradni-nabytek.jpg
 permalink: /produkty/zahradni-nabytek-z-recyklatu/
 nav-menu: false
 ---

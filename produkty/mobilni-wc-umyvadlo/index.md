@@ -2,7 +2,7 @@
 layout: landing
 title: Mobilní WC + umyvadlo
 description: 'Moderní přenosná toaleta s umyvadlem.<br />Vhodná pro stavbu, zahradu nebo akce.'
-image: {{ "/assets/images/mobilni-wc-umyvadlo.jpg" | relative_url }}
+image: /assets/images/mobilni-wc-umyvadlo.jpg
 permalink: /produkty/mobilni-wc-umyvadlo/
 nav-menu: false
 ---

@@ -2,7 +2,7 @@
 layout: landing
 title: O nás
 description: 'Specializujeme se na prodej plastových WC a zahradního sortimentu.<br />Kvalitní produkty pro domácnosti, obce i firmy.'
-image: {{ "/assets/images/banner.jpg" | relative_url }}
+image: /assets/images/banner.jpg
 permalink: /about/
 nav-menu: true
 ---

@@ -2,7 +2,7 @@
 layout: landing
 title: Mobilní WC + umyvadlo a pisóar
 description: 'Moderní přenosná toaleta včetně umyvadla a pisóaru.<br />Vhodná pro stavbu, zahradu nebo akce.'
-image: {{ "/assets/images/plastove-wc.jpg" | relative_url }}
+image: /assets/images/plastove-wc.jpg
 permalink: /produkty/mobilni-wc-umyvadlo-a-pisoar/
 nav-menu: false
 ---

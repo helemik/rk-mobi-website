@@ -2,7 +2,7 @@
 layout: landing
 title: Květináč z recyklátu
 description: 'Ekologický květináč z recyklovaného materiálu.<br />Odolný pro zahradu i veřejné prostory.'
-image: {{ "/assets/images/kvetinac.jpg" | relative_url }}
+image: /assets/images/kvetinac.jpg
 permalink: /produkty/kvetinac-z-recyklatu/
 nav-menu: false
 ---
