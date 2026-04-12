@@ -21,7 +21,7 @@ nav-menu: false
 <section id="two" class="spotlights">
 	<section>
 		<a href="{{ '/assets/images/produkty/1480_4-lavka-z-recyklatu.jpg' | relative_url }}" class="glightbox image" data-gallery="zahradni-nabytek-gallery" data-glightbox="title: Lavka z recyklátu">
-			<img src="{{ '/assets/images/produkty/1480_3-lavka-z-recyklatu.jpg' | relative_url }}" alt="Lavka z recyklátu" data-position="center center" />
+			<img src="{{ '/assets/images/produkty/1480_4-lavka-z-recyklatu.jpg' | relative_url }}" alt="Lavka z recyklátu" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -34,7 +34,7 @@ nav-menu: false
 	</section>
 	<section>
 		<a href="{{ '/assets/images/produkty/1479_4-sestava-stulzidle-z-recyklatu.jpg' | relative_url }}" class="glightbox image" data-gallery="zahradni-nabytek-gallery" data-glightbox="title: Sestava stůl + židle z recyklátu">
-			<img src="{{ '/assets/images/produkty/1479_3-sestava-stulzidle-z-recyklatu.jpg' | relative_url }}" alt="Sestava stůl + židle" data-position="center center" />
+			<img src="{{ '/assets/images/produkty/1479_4-sestava-stulzidle-z-recyklatu.jpg' | relative_url }}" alt="Sestava stůl + židle" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -47,7 +47,7 @@ nav-menu: false
 	</section>
 	<section>
 		<a href="{{ '/assets/images/produkty/1481_4-sada-lavkakvetinac-z-recyklatu.jpg' | relative_url }}" class="glightbox image" data-gallery="zahradni-nabytek-gallery" data-glightbox="title: Sada lavka + květináč z recyklátu">
-			<img src="{{ '/assets/images/produkty/1481_3-sada-lavkakvetinac-z-recyklatu.jpg' | relative_url }}" alt="Sada lavka + květináč" data-position="center center" />
+			<img src="{{ '/assets/images/produkty/1481_4-sada-lavkakvetinac-z-recyklatu.jpg' | relative_url }}" alt="Sada lavka + květináč" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

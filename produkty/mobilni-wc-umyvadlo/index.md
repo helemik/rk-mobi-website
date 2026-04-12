@@ -22,7 +22,7 @@ nav-menu: false
 <section id="two" class="spotlights">
 	<section>
 		<a href="{{ '/assets/images/produkty/1492_4-toaleta-z-umywalka-2.jpg' | relative_url }}" class="glightbox image" data-gallery="mobilni-wc-gallery" data-glightbox="title: Mobilní WC s umyvadlem">
-			<img src="{{ '/assets/images/produkty/1492_3-toaleta-z-umywalka-2.jpg' | relative_url }}" alt="Mobilní WC s umyvadlem" data-position="center center" />
+			<img src="{{ '/assets/images/produkty/1492_4-toaleta-z-umywalka-2.jpg' | relative_url }}" alt="Mobilní WC s umyvadlem" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -37,7 +37,7 @@ nav-menu: false
 	</section>
 	<section>
 		<a href="{{ '/assets/images/produkty/1494_4-toaleta-z-umywalka-4.jpg' | relative_url }}" class="glightbox image" data-gallery="mobilni-wc-gallery" data-glightbox="title: Mobilní WC s umyvadlem - detail">
-			<img src="{{ '/assets/images/produkty/1494_3-toaleta-z-umywalka-4.jpg' | relative_url }}" alt="Mobilní WC s umyvadlem detail" data-position="center center" />
+			<img src="{{ '/assets/images/produkty/1494_4-toaleta-z-umywalka-4.jpg' | relative_url }}" alt="Mobilní WC s umyvadlem detail" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -61,17 +61,17 @@ nav-menu: false
 		</header>
 		<div class="box alt">
 			<div class="row uniform">
-				<div class="4u"><span class="image fit"><a href="{{ '/assets/images/produkty/1495_4-toaleta-z-umywalka-7.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Detail interiéru"><img src="{{ '/assets/images/produkty/1495_3-toaleta-z-umywalka-7.jpg' | relative_url }}" alt="Detail interiéru" /></a></span></div>
-				<div class="4u"><span class="image fit"><a href="{{ '/assets/images/produkty/1496_4-toaleta-z-umywalka-8.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Umyvadlo a zrcadlo"><img src="{{ '/assets/images/produkty/1496_3-toaleta-z-umywalka-8.jpg' | relative_url }}" alt="Umyvadlo a zrcadlo" /></a></span></div>
-				<div class="4u$"><span class="image fit"><a href="{{ '/assets/images/produkty/1497_4-toaleta-z-umywalka-10.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Pohled zvenčí"><img src="{{ '/assets/images/produkty/1497_3-toaleta-z-umywalka-10.jpg' | relative_url }}" alt="Pohled zvenčí" /></a></span></div>
-				<div class="4u"><span class="image fit"><a href="{{ '/assets/images/produkty/1498_4-toaleta-z-umywalka-11.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Boční pohled"><img src="{{ '/assets/images/produkty/1498_3-toaleta-z-umywalka-11.jpg' | relative_url }}" alt="Boční pohled" /></a></span></div>
-				<div class="4u"><span class="image fit"><a href="{{ '/assets/images/produkty/1499_4-toaleta-z-umywalka-12.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Detail konstrukce"><img src="{{ '/assets/images/produkty/1499_3-toaleta-z-umywalka-12.jpg' | relative_url }}" alt="Detail konstrukce" /></a></span></div>
-				<div class="4u$"><span class="image fit"><a href="{{ '/assets/images/produkty/1500_4-toaleta-z-umywalka-14.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Zadní pohled"><img src="{{ '/assets/images/produkty/1500_3-toaleta-z-umywalka-14.jpg' | relative_url }}" alt="Zadní pohled" /></a></span></div>
-				<div class="4u"><span class="image fit"><a href="{{ '/assets/images/produkty/1501_4-img20250328110800.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Instalace na místě"><img src="{{ '/assets/images/produkty/1501_3-img20250328110800.jpg' | relative_url }}" alt="Instalace na místě" /></a></span></div>
-				<div class="4u"><span class="image fit"><a href="{{ '/assets/images/produkty/1502_4-img202503281101171.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Detail použití"><img src="{{ '/assets/images/produkty/1502_3-img202503281101171.jpg' | relative_url }}" alt="Detail použití" /></a></span></div>
-				<div class="4u$"><span class="image fit"><a href="{{ '/assets/images/produkty/1503_4-img202503281056291.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Celkový pohled"><img src="{{ '/assets/images/produkty/1503_3-img202503281056291.jpg' | relative_url }}" alt="Celkový pohled" /></a></span></div>
-				<div class="4u"><span class="image fit"><a href="{{ '/assets/images/produkty/1504_4-img202503281104371.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Praktické použití"><img src="{{ '/assets/images/produkty/1504_3-img202503281104371.jpg' | relative_url }}" alt="Praktické použití" /></a></span></div>
-				<div class="4u$"><span class="image fit"><a href="{{ '/assets/images/produkty/1505_4-img20250328103114.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Detail transportu"><img src="{{ '/assets/images/produkty/1505_3-img20250328103114.jpg' | relative_url }}" alt="Detail transportu" /></a></span></div>
+				<div class="2u"><span class="image fit"><a href="{{ '/assets/images/produkty/1495_4-toaleta-z-umywalka-7.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Detail interiéru"><img src="{{ '/assets/images/produkty/1495_4-toaleta-z-umywalka-7.jpg' | relative_url }}" alt="Detail interiéru" /></a></span></div>
+				<div class="2u"><span class="image fit"><a href="{{ '/assets/images/produkty/1496_4-toaleta-z-umywalka-8.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Umyvadlo a zrcadlo"><img src="{{ '/assets/images/produkty/1496_4-toaleta-z-umywalka-8.jpg' | relative_url }}" alt="Umyvadlo a zrcadlo" /></a></span></div>
+				<div class="2u"><span class="image fit"><a href="{{ '/assets/images/produkty/1497_4-toaleta-z-umywalka-10.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Pohled zvenčí"><img src="{{ '/assets/images/produkty/1497_4-toaleta-z-umywalka-10.jpg' | relative_url }}" alt="Pohled zvenčí" /></a></span></div>
+				<div class="2u"><span class="image fit"><a href="{{ '/assets/images/produkty/1498_4-toaleta-z-umywalka-11.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Boční pohled"><img src="{{ '/assets/images/produkty/1498_4-toaleta-z-umywalka-11.jpg' | relative_url }}" alt="Boční pohled" /></a></span></div>
+				<div class="2u"><span class="image fit"><a href="{{ '/assets/images/produkty/1499_4-toaleta-z-umywalka-12.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Detail konstrukce"><img src="{{ '/assets/images/produkty/1499_4-toaleta-z-umywalka-12.jpg' | relative_url }}" alt="Detail konstrukce" /></a></span></div>
+				<div class="2u$"><span class="image fit"><a href="{{ '/assets/images/produkty/1500_4-toaleta-z-umywalka-14.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Zadní pohled"><img src="{{ '/assets/images/produkty/1500_4-toaleta-z-umywalka-14.jpg' | relative_url }}" alt="Zadní pohled" /></a></span></div>
+				<div class="2u"><span class="image fit"><a href="{{ '/assets/images/produkty/1501_4-img20250328110800.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Instalace na místě"><img src="{{ '/assets/images/produkty/1501_4-img20250328110800.jpg' | relative_url }}" alt="Instalace na místě" /></a></span></div>
+				<div class="2u"><span class="image fit"><a href="{{ '/assets/images/produkty/1502_4-img202503281101171.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Detail použití"><img src="{{ '/assets/images/produkty/1502_4-img202503281101171.jpg' | relative_url }}" alt="Detail použití" /></a></span></div>
+				<div class="2u"><span class="image fit"><a href="{{ '/assets/images/produkty/1503_4-img202503281056291.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Celkový pohled"><img src="{{ '/assets/images/produkty/1503_4-img202503281056291.jpg' | relative_url }}" alt="Celkový pohled" /></a></span></div>
+				<div class="2u"><span class="image fit"><a href="{{ '/assets/images/produkty/1504_4-img202503281104371.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Praktické použití"><img src="{{ '/assets/images/produkty/1504_4-img202503281104371.jpg' | relative_url }}" alt="Praktické použití" /></a></span></div>
+				<div class="2u$"><span class="image fit"><a href="{{ '/assets/images/produkty/1505_4-img20250328103114.jpg' | relative_url }}" class="glightbox" data-gallery="mobilni-wc-gallery" data-glightbox="title: Detail transportu"><img src="{{ '/assets/images/produkty/1505_4-img20250328103114.jpg' | relative_url }}" alt="Detail transportu" /></a></span></div>
 			</div>
 		</div>
 	</div>
