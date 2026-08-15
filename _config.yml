@@ -2,11 +2,11 @@
 title: RKMOBI.cz
 subtitle: RK Mobi cz
 email: krestynradim@gmail.com
-description: Ohřevné teplodrátěné koše, ochrana rostlin před mrazem – výroba a prodej.
-baseurl: "/rk-mobi-website" # GitHub Pages repository path
-url: "https://helemik.github.io" # GitHub Pages domain
+description: Plastové WC, mobilní sprchy a zahradní nábytek z recyklátu.
+baseurl: ""
+url: "https://rkmobi.cz"
 author:
-street_address: Drušstevní 276/15
+  street_address: Družstevní 276/15
 city: Mohelnice
 state: 
 zip_code: 789 85
